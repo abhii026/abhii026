@@ -55,15 +55,34 @@ No activity tracked
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=abhii026&show_icons=true&theme=dracula&cache_seconds=1800" height="150"/>
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abhii026&show_icons=true&theme=dracula&hide_border=true"
+    height="150"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhii026&layout=compact&theme=dracula&cache_seconds=1800" height="150"/>
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhii026&layout=compact&theme=dracula&hide_border=true"
+    height="150"
+  />
 
-  <img src="https://streak-stats.demolab.com?user=abhii026&theme=dracula&cache_seconds=1800" height="150"/>
+  <!-- GitHub Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abhii026&theme=dracula&hide_border=true"
+    height="150"
+  />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhii026&theme=react-dark&area=true&cache_seconds=1800" height="300"/>
+  <!-- Contribution Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abhii026&theme=react-dark"
+    height="300"
+  />
 
 </div>
+
+
+
 
 <br>
 
@@ -72,9 +91,12 @@ No activity tracked
 <h2 align="left">Socials</h2>
 
 <div align="left">
+  <div align="left">
   <a href="https://www.linkedin.com/in/abhii026/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
+</div>
+
   <a href="https://www.hackerrank.com/profile/iabhii026" target="_blank">
     <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40"/>
   </a>
