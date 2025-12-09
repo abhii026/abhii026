@@ -1,10 +1,11 @@
+<img align="right" height="200" style="margin-left: 15px;" src="https://github.com/user-attachments/assets/c2d735d3-3244-4bfd-a78e-d52695848108" />
+
 <h1 align="left">Hey 👋, I'm Abhishek Singh<br>📊 Aspiring Data Engineer | CSE Student | Tech Enthusiast</h1>
 
 ###
 
 <p align="left">I'm a passionate Computer Science student from India 🇮🇳, focused on data, backend systems, and building scalable real-world projects.</p>
 
-###
 
 <h2 align="left">About me</h2>
 
