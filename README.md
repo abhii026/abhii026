@@ -40,7 +40,8 @@
 </div>
 
 ###
-
+START_SECTION:waka
+END_SECTION:waka
 
 ###
 
@@ -56,8 +57,7 @@
 </div>
 
 ###
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 
 <img src="https://raw.githubusercontent.com/abhii026/abhii026/output/snake.svg" alt="Snake animation" />
