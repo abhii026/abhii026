@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="right">
-  <img height="200" src="https://i.ytimg.com/vi/9cN-3qGVux4/maxresdefault.jpg"  />
-</div>
+
 
 ###
 
