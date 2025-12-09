@@ -39,13 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-###
-
 <div align="center">
 
   <img src="https://github.com/anuraghazra/github-readme-stats/api?username=abhii026&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
