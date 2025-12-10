@@ -91,11 +91,11 @@ No activity tracked
 <h2 align="left">Socials</h2>
 
 <div align="left">
-  <div align="left">
+  <!-- <div align="left"> -->
   <a href="https://www.linkedin.com/in/abhii026/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-</div>
+<!-- </div> -->
 
   <a href="https://www.hackerrank.com/profile/iabhii026" target="_blank">
     <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40"/>
