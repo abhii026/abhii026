@@ -44,9 +44,9 @@ I'm a passionate Computer Science student from India 🇮🇳, focused on data, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2025 - To: 02 January 2026
+From: 28 December 2025 - To: 04 January 2026
 
-C++   57 mins         █████████████████████████   100.00 %
+C++   35 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
