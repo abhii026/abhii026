@@ -70,10 +70,11 @@ Other        0 secs          ▒░░░░░░░░░░░░░░░░
   />
 
   <!-- GitHub Streak -->
-  <img
+  <!--<img
     src="https://github-readme-streak-stats.herokuapp.com/?user=abhii026&theme=dracula&hide_border=true"
     height="150"
   />
+  --!>
 
   <!-- Contribution Graph -->
   <img
