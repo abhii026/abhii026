@@ -89,7 +89,7 @@ Other        0 secs          ▒░░░░░░░░░░░░░░░░
 
 <br>
 
-<img src="https://raw.githubusercontent.com/abhii026/abhii026/output/snake.svg" alt="Snake animation"/>
+<!--<img src="https://raw.githubusercontent.com/abhii026/abhii026/output/snake.svg" alt="Snake animation"/> --!>
 
 <h2 align="left">Socials</h2>
 
