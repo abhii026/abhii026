@@ -1,4 +1,4 @@
-<img align="right" height="200" style="margin-left: 15px;" src="https://github.com/user-attachments/assets/c2d735d3-3244-4bfd-a78e-d52695848108" />
+<!--<img align="right" height="200" style="margin-left: 15px;" src="https://github.com/user-attachments/assets/c2d735d3-3244-4bfd-a78e-d52695848108" />-->
 
 <h1 align="left">Hey 👋, I'm Abhishek Singh<br>📊 Aspiring Data Engineer | CSE Student | Tech Enthusiast</h1>
 
