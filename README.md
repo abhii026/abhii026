@@ -9,7 +9,7 @@ I'm a passionate Computer Science student from India 🇮🇳, focused on data, 
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating bugs since 2024<br>
+<!--✨ Creating bugs since 2024<br>-->
 🎓 B.Tech CSE | 2nd Year Student<br>
 🌱 Currently learning DSA, Databases, Full Stack & Data Engineering<br>
 💡 Interested in Big Data, Cloud, ETL Pipelines & System Design<br>
@@ -79,10 +79,10 @@ Git Config   7 mins          ▒░░░░░░░░░░░░░░░░
   --!>
 
   <!-- Contribution Graph -->
-  <img
+  <!--<img
     src="https://github-readme-activity-graph.vercel.app/graph?username=abhii026&theme=react-dark"
     height="300"
-  />
+  /> -->
 
 </div>
 
