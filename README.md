@@ -44,13 +44,13 @@ I'm a passionate Computer Science student from India 🇮🇳, focused on data, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2026 - To: 10 February 2026
+From: 04 February 2026 - To: 11 February 2026
 
-HTML         3 hrs 53 mins   ████████░░░░░░░░░░░░░░░░░   31.79 %
-CSS          3 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   30.29 %
-Java         1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-JavaScript   1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
-Python       1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+HTML         2 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   32.74 %
+Java         1 hr 50 mins    ███████▒░░░░░░░░░░░░░░░░░   29.57 %
+Python       1 hr 3 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+CSS          39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
+JavaScript   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
 ```
 
 <!--END_SECTION:waka-->
