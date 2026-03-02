@@ -44,7 +44,7 @@ I'm a passionate Computer Science student from India 🇮🇳, focused on data, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2026 - To: 28 February 2026
+From: 22 February 2026 - To: 01 March 2026
 
 Python   46 mins               █████████████████░░░░░░░░   67.57 %
 Java     22 mins               ████████░░░░░░░░░░░░░░░░░   32.43 %
