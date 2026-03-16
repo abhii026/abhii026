@@ -44,7 +44,7 @@ I'm a passionate Computer Science student from India 🇮🇳, focused on data, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2026 - To: 14 March 2026
+From: 08 March 2026 - To: 15 March 2026
 
 Java         34 mins               ████████████░░░░░░░░░░░░░   48.60 %
 HTML         22 mins               ████████░░░░░░░░░░░░░░░░░   32.33 %
