@@ -151,14 +151,13 @@ abhishek = {
      You need: WakaTime editor plugin + WAKATIME_API_KEY GitHub Secret + workflow YAML file -->
 
 <!--START_SECTION:waka-->
+
 ```txt
-From: 29 April 2026 - To: 06 May 2026
-Java         27 mins               ██████████▒░░░░░░░░░░░░░░   41.24 %
-Python       25 mins               █████████▓░░░░░░░░░░░░░░░   38.85 %
-Markdown     12 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+From: 01 May 2026 - To: 08 May 2026
+
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ---
