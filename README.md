@@ -3,7 +3,7 @@
 # Hey, I'm Abhishek Singh 👋
 ### Aspiring Data Engineer · CSE Student · India 🇮🇳
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+ML+%7C+Python;Building+Real-World+Projects;Currently+Learning+Spring+Boot+%26+Backend;2nd+Year+B.Tech+CSE+%40+LPU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+ML+%7C+Python;Building+Real-World+Projects;Currently+Learning+Big+Data+%26+ML;3rd+Year+B.Tech+CSE+%40+LPU)](https://git.io/typing-svg)
 
 </div>
 
