@@ -26,7 +26,7 @@
 
 ```python
 abhishek = {
-    "degree"   : "B.Tech Computer Science Engineering — 2nd Year @ LPU",
+    "degree"   : "B.Tech Computer Science Engineering — 3nd Year @ LPU",
     "location" : "Punjab, India 🇮🇳",
     "focus"    : ["Data Engineering", "Machine Learning", "Backend Development"],
     "learning" : ["Spring Boot", "Spring MVC", "REST APIs", "System Design"],
