@@ -3,7 +3,7 @@
 # Hey, I'm Abhishek Singh 👋
 ### Aspiring Data Engineer · CSE Student · India 🇮🇳
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+ML+%7C+Python;Building+Real-World+Projects;Currently+Learning+Big+Data+%26+ML;3rd+Year+B.Tech+CSE+%40+LPU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+Big+Data+%7C+SQL;Python+%7C+Java+%7C+Machine+Learning;Building+Real-World+Data+Projects;Currently+Learning+Big+Data+%26+ML)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,10 +26,10 @@
 
 ```python
 abhishek = {
-    "degree"   : "B.Tech Computer Science Engineering — 3nd Year @ LPU",
-    "location" : "Punjab, India 🇮🇳",
-    "focus"    : ["Data Engineering", "Machine Learning", "Backend Development"],
-    "learning" : ["Spring Boot", "Spring MVC", "REST APIs", "System Design"],
+    "degree"   : "B.Tech Computer Science Engineering — 3rd Year @ LPU",
+    "location" : "India 🇮🇳",
+    "focus"    : ["Data Engineering", "Big Data", "Machine Learning"],
+    "learning" : ["Hadoop", "Big Data", "Machine Learning"],
     "goal"     : "Land a Data Engineering role at a product-based company",
     "fun_fact" : "I enjoy wrangling data more than building UIs 😄"
 }
@@ -39,91 +39,113 @@ abhishek = {
 
 ## 🚀 Featured Projects
 
+### 🌾 Crop Health Prediction — Machine Learning & Power BI
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/abhii026/crop-health-prediction)
+![Stars](https://img.shields.io/github/stars/abhii026/crop-health-prediction?style=flat-square&color=yellow&label=⭐)
+
+- Predicted crop health from environmental conditions — temperature, humidity, rainfall, and soil pH
+- Analyzed **10,000 crop records** through data cleaning, EDA, anomaly detection, and feature engineering
+- Compared **Logistic Regression** and **Random Forest** classification models
+- Random Forest achieved **86.40% accuracy**, **77.93% precision**, **68.30% F1-score**
+- Built a **3-page interactive Power BI dashboard** for data insights and model analysis
+- Exported cleaned, feature-engineered data and model predictions for dashboarding
+
+`Python` `Pandas` `Scikit-learn` `Random Forest` `Logistic Regression` `Power BI` `DAX` `Jupyter`
+
+---
+
 ### 🏦 Loan Approval Prediction — Machine Learning
-> Binary classification model to predict credit risk on the UCI German Credit Dataset
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/abhii026/loan-approval-prediction)
 ![Stars](https://img.shields.io/github/stars/abhii026/loan-approval-prediction?style=flat-square&color=yellow&label=⭐)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-- Built full ML pipeline: Data Loading → EDA → Preprocessing → Training → Evaluation
-- Achieved **77.58% accuracy** on 1,000 loan applicants using Logistic Regression
-- Visualized feature correlations, distributions & confusion matrix with Seaborn & Matplotlib
-- Saved trained model as `.pkl` — Flask/Streamlit deployment in Future Scope
+- Binary classification model predicting credit risk on the Statlog German Credit Dataset
+- Built an end-to-end ML pipeline: data loading → EDA → cleaning → preprocessing → training → evaluation
+- Analyzed **1,000 loan applicant records**
+- Applied **Label Encoding** and **StandardScaler**
+- Trained a **Logistic Regression** classifier with **77.58% testing accuracy**
+- Evaluated using Precision, Recall, F1-score, and Confusion Matrix
+- Saved the trained model as a `.pkl` file
 
-`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Jupyter`
+`Python` `Pandas` `Scikit-learn` `Logistic Regression` `Matplotlib` `Seaborn` `Jupyter`
 
 ---
 
 ### 📊 HR Analytics Dashboard — Power BI
-> Interactive dual-page Power BI dashboard analyzing 1,473 employees to uncover causes of 16.1% attrition
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/abhii026/HR-Analytics-Dashboard)
-[![Live](https://img.shields.io/badge/🔴_Live-Power_BI_Dashboard-F2C811?style=flat-square)](https://tinyurl.com/hr-analytics-abhi026)
 ![Stars](https://img.shields.io/github/stars/abhii026/HR-Analytics-Dashboard?style=flat-square&color=yellow&label=⭐)
 
-- Analyzed attrition across age, salary, department, job role, gender & education dimensions
-- Built 7 chart types — Donut, Matrix, Line/Area, Stacked Bar, Grouped Bar, Column
-- Created DAX measures for Attrition Rate, Avg Salary, Avg Tenure KPIs
-- ETL done via Power Query: cleaning, type validation, feature engineering (AgeGroup, SalarySlab)
-- Live dashboard published on Power BI Service with QR code access
+- Interactive HR analytics dashboard analyzing employee attrition across department, salary, age, job role, and other workforce dimensions
+- Analyzed **1,473 employee records** across 38 attributes
+- Performed data cleaning and transformation using **Power Query**
+- Built DAX measures for **Attrition Rate, Average Salary, Average Age, and Average Tenure**
+- Created a **2-page interactive dashboard** with 7 visual types and dynamic department filters
+- Identified key attrition patterns across age, salary, department, job role, education, and tenure
+- Published the dashboard online for interactive access
 
-`Power BI` `DAX` `Power Query` `ETL` `Data Visualization` `Excel`
+`Power BI` `Power Query` `DAX` `Excel` `ETL` `Data Analysis`
 
 ---
 
-### 🎬 CineAI — AI Movie Recommender Chatbot
-> AI-powered chatbot that suggests 3 movies with posters based on your genre or mood
+## 🛠️ Data Engineering Journey
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/abhii026/cineai-movie-recommender)
-[![Live](https://img.shields.io/badge/🔴_Live-Render_Deploy-46E3B7?style=flat-square)](https://cineai-movie-recommender.onrender.com/)
-![Stars](https://img.shields.io/github/stars/abhii026/cineai-movie-recommender?style=flat-square&color=yellow&label=⭐)
-
-- Integrated **Groq LLaMA 3.3 70B** via API for intelligent movie recommendations
-- Fetched real movie posters dynamically using **OMDB API**
-- Engineered prompts to control AI output format, domain-lock & avoid session repeats
-- Deployed live on Render — fully functional with dark theme UI
-
-`Python` `Flask` `Groq API` `LLaMA 3` `OMDB API` `Prompt Engineering` `HTML/CSS/JS`
+- Python & SQL
+- MySQL & PostgreSQL
+- Data Analysis & ETL Concepts
+- Currently Learning: Big Data, Hadoop & Machine Learning
+- Next: Spark / PySpark, Kafka, Airflow & AWS
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**💻 Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Data & ML**
+**🏗️ Data Engineering**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-2E7D32?style=flat-square&logo=databricks&logoColor=white)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-2E7D32?style=flat-square&logo=apacheairflow&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2E7D32?style=flat-square&logo=pandas&logoColor=white)
+![Data Processing](https://img.shields.io/badge/Data_Processing-2E7D32?style=flat-square&logo=apachespark&logoColor=white)
 
-**Databases**
+**🗄️ Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Web & Tools**
+**📊 Data Science & ML**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**📈 Data Analytics & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**🔧 Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-**Currently Learning 🌱**
+**🌱 Currently Learning**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big_Data-BD93F9?style=flat-square&logo=apachehadoop&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-BD93F9?style=flat-square&logo=apachehadoop&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-BD93F9?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ---
 
@@ -153,9 +175,7 @@ abhishek = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2026 - To: 06 September 2026
-
-No activity tracked
+WakaTime stats: awaiting setup (waka-readme Action not yet configured)
 ```
 
 <!--END_SECTION:waka-->
@@ -178,6 +198,10 @@ No activity tracked
 
 *"Data is the new oil — I'm here to build the pipelines."* 🚀
 
+<!-- Snake animation — uncomment whenever you want to enable it
 ![Snake animation](https://raw.githubusercontent.com/abhii026/abhii026/output/snake.svg)
+-->
+
+### 🙏 Thank you for visiting my profile!
 
 </div>
