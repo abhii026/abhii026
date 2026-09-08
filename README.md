@@ -175,7 +175,9 @@ abhishek = {
 <!--START_SECTION:waka-->
 
 ```txt
-WakaTime stats: awaiting setup (waka-readme Action not yet configured)
+From: 31 August 2026 - To: 07 September 2026
+
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
