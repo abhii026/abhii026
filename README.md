@@ -175,7 +175,7 @@ abhishek = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
 Bash       1 hr 48 mins          ██████████▓░░░░░░░░░░░░░░   42.88 %
 Markdown   52 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
