@@ -175,13 +175,13 @@ abhishek = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2026 - To: 21 September 2026
+From: 15 September 2026 - To: 22 September 2026
 
-Bash         1 hr 57 mins          █████████████▒░░░░░░░░░░░   53.78 %
-Markdown     1 hr 15 mins          ████████▓░░░░░░░░░░░░░░░░   34.36 %
-HTML         16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-Python       6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-SQL          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Bash         1 hr 44 mins          ████████████▓░░░░░░░░░░░░   51.14 %
+Markdown     1 hr 15 mins          █████████▒░░░░░░░░░░░░░░░   36.87 %
+HTML         16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Python       5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+SQL          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
